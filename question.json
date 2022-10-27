@@ -1,0 +1,76 @@
+[
+    {
+        "1": " Combien de rayures y a-t-il sur le drapeau américain ?",
+        "2": " Quel est l'animal national de l'Australie ?",
+        "3": " En Combien de jour le Soleil tourne autour de la Terre ?",
+        "4": " Lequel des empires suivants n'avait pas de langue écrite :",
+        "5": " Quel est le langage de programmation le plus connu et utilisé ?",
+        "6": " Qui est le fondateur de Apple ?",
+        "7": " De quelle couleur est le drapeau de Madagascar ?",
+        "8": " Lequel de ces codes définit la couleur noir ?",
+        "9": " Lequel de ces icones peut vous permettre de naviguer sur Internet ?",
+        "10": " Que veut dire Hablar en espagnol ?"
+    },
+    {
+        "1": [
+            "12",
+            "13",
+            "14",
+            "15"
+        ],
+        "2": [
+            "Le Lion",
+            "Le Koala",
+            "Le Kangourou rouge",
+            "L'aigle"
+        ],
+        "3": [
+            "400",
+            "350",
+            "361",
+            "365"
+        ],
+        "4": [
+            "Inca",
+            "Aztèque",
+            "Egypte",
+            "Romain"
+        ],
+        "5": [
+            "Java",
+            "Python",
+            "Julia",
+            "Poops"
+        ],
+        "6": [
+            "ELon Musk",
+            "Barack Obama",
+            "Steve Jobs",
+            "Mark Zuckerberg"
+        ],
+        "7": [
+            "Bleu, Blanc, Rouge",
+            "Blanc, Rouge, Vert",
+            "Jaune, Rouge, Noir",
+            "Blanc et Rouge"
+        ],
+        "8": [
+            "#123",
+            "#000",
+            "#111",
+            "#fff"
+        ],
+        "9": [
+            "Google Chrome",
+            "Mes Documents",
+            "Word",
+            "Corbeille"
+        ],
+        "10": [
+            "Nager",
+            "Dormir",
+            "Manger",
+            "Parler"
+        ]
+    }
+]
